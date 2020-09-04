@@ -2,23 +2,21 @@
 YEH 100% WORKING HAI 
 NEW COMMAND 4/SEPTEMBER/2020
 
-1) pkg update
+1) apt update
 
-2) pkg upgrade
+  2) apt upgrade
 
-3) pkg install python
+ 3) pkg install python2
+  
+  4) pkg install git
 
-4) pkg install Python2
+  5) pip2 install requests mechanize
 
-5) pip2 install requests mechanize
+  6) git clone https://github.com/Abdulbasitkamboh/PAKISTAN
 
-6) pkg install git
+  7) cd PAKISTAN
 
-7) git clone https://github.com/Abdulbasitkamboh/PAKISTAN
-
-8) cd PAKISTAN
-
-9) python2 PakistanKarachi.py
+  8) python2 PakistanKarachi.py
 
 USER NAME: ABDUL
-PASSWORD:  BASIT
+PASSWORD : BASIT
