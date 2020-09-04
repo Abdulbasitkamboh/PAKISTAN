@@ -18,7 +18,7 @@ NEW COMMAND 4/SEPTEMBER/2020
 
 8) cd PAKISTAN
 
-9) python2 PakistanKarachi.py
+9) python2 PakistanKarachiBasit.py
 
 USER NAME: ABDUL
 PASSWORD:  BASIT
